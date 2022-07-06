@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:orientation="vertical"
+             android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pilih"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="10dp"
+        android:textAlignment="center"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_edit"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="Edit"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_marginHorizontal="5dp"
+            />
+
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="Delete"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_marginHorizontal="5dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

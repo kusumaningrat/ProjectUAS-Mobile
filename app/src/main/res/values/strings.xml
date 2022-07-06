@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectUAS</string>
+    <string name="welcome">Selamat Datang di \nGUDANGKU</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="login">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="new_here">New Here? <b>Register</b></string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_member_login">Already Member? <b>Login</b></string>
+    <string name="btn_register">Register</string>
+    <string name="register_email">Email</string>
+    <string name="username">Username</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="nama_customer">Nama Customer</string>
+    <string name="tanggal_beli">Tanggal Beli</string>
+    <string name="tambah_barang">Tambah barang</string>
+    <string name="masukan_nama_barang">Masukan Nama Barang</string>
+    <string name="masukan_harga_barang">Masukan Harga Barang</string>
+    <string name="masukan_nama_customer">Masukan Nama Customer</string>
+    <string name="tambah">Tambah</string>
+</resources>

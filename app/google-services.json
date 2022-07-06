@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626567364663",
+    "firebase_url": "https://project-uas-f4775-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-uas-f4775",
+    "storage_bucket": "project-uas-f4775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626567364663:android:161672ad87e2e82e12ffb2",
+        "android_client_info": {
+          "package_name": "com.kusumaningrat.projectuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626567364663-v9do32pvf9arg8cj2htu2mnrv1vn741c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kusumaningrat.projectuas",
+            "certificate_hash": "f1b39fb3f561735b10813f7216160428007b30ba"
+          }
+        },
+        {
+          "client_id": "626567364663-ekbehm4ojlpabl2asq76bob71v2qq609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjhFQXowrZtogzkhZj93nPFOV8cU79kiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626567364663-ekbehm4ojlpabl2asq76bob71v2qq609.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
